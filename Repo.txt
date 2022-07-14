@@ -1,1 +1,2 @@
-Hi i am swetha
+Hi i am swetha.
+This is my 1st repository.
